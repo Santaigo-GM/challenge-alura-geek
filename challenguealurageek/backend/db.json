@@ -1,0 +1,22 @@
+{
+  "imagen": [
+    {
+      "id": "3ad9",
+      "nombre": "holdfda",
+      "precio": 1000,
+      "imagen": "https://i.pinimg.com/564x/dd/d2/bb/ddd2bb3f0fb29f6daf9bc391ed564f17.jpg"
+    },
+    {
+      "id": "4556",
+      "nombre": "Alexander",
+      "precio": "12",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnGXcQMdS_ilBouj401hh_E7d7h8EbuIMyw&s"
+    },
+    {
+      "id": "fc37",
+      "nombre": "Alexander",
+      "precio": "323",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnGXcQMdS_ilBouj401hh_E7d7h8EbuIMyw&s"
+    }
+  ]
+}
